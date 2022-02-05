@@ -37,10 +37,47 @@ Grading
 
 As a very rough guide, the split between the quiz, the final, and the homework in determining your grade is as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quiz | 35% |
-| Final | 45% |
-| Homework | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 If we are successful in working with all of you to understand the material in reasonable depth, we will be delighted to give you all A's. To the extent we are less successful, then if we have evidence that you have made substantial progress in learning the material, you will get an A or a B. If we have no such evidence, the grade might be lower.
